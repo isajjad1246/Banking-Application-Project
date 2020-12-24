@@ -17,6 +17,7 @@ public class BankingApplication{
             the following option will be executed
          */
     //all the operations will occur in the class BankAccount
+    }
         class BankAccount {
             int currentBalance; //money in your account
             int previousTransaction; //last amount withdrawn or deposited
@@ -120,4 +121,3 @@ public class BankingApplication{
             
         }
     }
-}
